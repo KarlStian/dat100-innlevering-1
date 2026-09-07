@@ -9,7 +9,7 @@ public class O1 {
 		double inntekt = scanner.nextDouble();
 		double trinnskatt = 0;
 
-		// Trinnskattsatser:
+		// Trinnskattsatser for 2026:
 		// Trinn 0: Ingen trinnskatt for inntekt mellom 0 - 226 100
 		// Trinn 1: 226 101 - 318 300 kr (1,7 %)
 		// Trinn 2: 318 301 - 725 050 kr (4,0 %)
